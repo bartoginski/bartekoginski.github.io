@@ -22,7 +22,7 @@ h2 {
 }
 
 ul {
-	list-style-type: none;z
+	list-style-type: none;
 }
 
 li {
@@ -46,7 +46,6 @@ button {
 
 @media (max-width: 650px) {
 	h2 {
-
 		text-align: center;
 	}
 	.input {
@@ -63,5 +62,3 @@ button {
 		width: 100%;
 	}
 }
-
-
